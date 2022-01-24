@@ -1,0 +1,37 @@
+{
+    "users":[
+
+        {
+            "first_name": "Vail",
+            "last_name": "Tremmil",
+            "email": "vtremmil0@skyrock.com",
+            "gender": "Male",
+            "age": 58
+          }, {
+            "first_name": "Maribeth",
+            "last_name": "Stallworthy",
+            "email": "mstallworthy1@theatlantic.com",
+            "gender": "Male",
+            "age": 49
+          }, {
+            "first_name": "Rose",
+            "last_name": "Kuller",
+            "email": "rkuller2@craigslist.org",
+            "gender": "Female",
+            "age": 71
+          }, {
+            "first_name": "Paddie",
+            "last_name": "Korfmann",
+            "email": "pkorfmann3@over-blog.com",
+            "gender": "Male",
+            "age": 68
+          }, {
+            "first_name": "Bridgette",
+            "last_name": "Hynard",
+            "email": "bhynard4@dion.ne.jp",
+            "gender": "Female",
+            "age": 63
+          }
+
+    ]
+}
