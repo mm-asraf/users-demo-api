@@ -28,4 +28,4 @@ for example : -
 - step6 -> If you want to save the final result of those API calls, you can press the s key from your keyboard and hit the enter key which will save the snapshot of the changes in a separate file as can be seen in the terminal.
 
 - step8 -> create a repo in github and push it here
-- step0 -> use the given format to get your api -> https://my-json-server.typicode.com/mm-asraf/users-demo-api 
+- step10 -> use the given format to get your api -> https://my-json-server.typicode.com/mm-asraf/users-demo-api 
