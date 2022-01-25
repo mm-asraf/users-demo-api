@@ -1,4 +1,6 @@
 # users-demo-api
+### this is my pure restful api https://users-dummy2.herokuapp.com/users
+
 example to write your own restful api in json - https://my-json-server.typicode.com/your_github_username/your_repository_name
 
 #json-rest-api
