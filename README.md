@@ -11,7 +11,7 @@ https://my-json-server.typicode.com/mm-asraf/users-demo-api
 
 - step1-> open your code editor (vs code) npm init -y
 - step2 -> install json-server - using this command npm i json-server
-- step3 -> create db.json file and some data to it.
+- step3 -> create db.json file and add some data to it.
 for example : -
 
     
